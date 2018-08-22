@@ -1,2 +1,2 @@
 # secploit-distrubution
-Secploit OS is developed to focus only on red teaming toolkit frameworks , to help red team Hackers to get all these tools on handy Linux system
+Secploit OS is developed to aid in Red Team operations , This Linux System has all red teams toolkit required 
